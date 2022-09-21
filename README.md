@@ -1,5 +1,8 @@
-< img src='https://i.gifer.com/origin/7a/7a5326f23bd750d82ebeaf8fd51cf2cd_w200.webp' width = '500' height = '500' />
-# SPACE-MISSION-ANALYSIS (59 Years of Human in space)
+#    SPACE-MISSION-ANALYSIS (59 Years of Human in space)
+
+<div align = "center" >
+<img src="https://i.gifer.com/origin/7a/7a5326f23bd750d82ebeaf8fd51cf2cd_w200.webp" width="900" height = "100" />
+</div>
 
 ## OBJECTIVE
 
