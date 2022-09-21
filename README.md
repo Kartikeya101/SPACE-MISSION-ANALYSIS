@@ -7,7 +7,7 @@
 <img src="https://i.gifer.com/origin/7a/7a5326f23bd750d82ebeaf8fd51cf2cd_w200.webp" width="900" height = "100" />
 </div>
 
-## OBJECTIVE
+## OBJECTIVES
 
 1) To analyse the total number of mission and their respective information by each country
 2) To find how total mnumber of people who visit to moon
